@@ -1,4 +1,4 @@
-# DevHub — Internal Developer Service Catalog
+# DevHub - Internal Developer Service Catalog
 
 DevHub is a full-stack internal developer platform designed to help engineering teams **discover, manage, and organize software services in one centralized system**.
 
@@ -24,13 +24,6 @@ It provides a structured view of services, ownership, APIs, environments, depend
 * Repository and documentation links
 * Technology and service metadata
 * Service status tracking
-
-### 👥 Team Management
-
-* Create and manage engineering teams
-* Assign services to teams
-* Manage team ownership
-* View services owned by a particular team
 
 ### 🔌 API Catalog
 
