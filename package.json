@@ -1,0 +1,23 @@
+{
+  "name": "devhub",
+  "version": "2.0.0",
+  "description": "DevHub — Internal Developer Service Catalog & Platform",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "seed": "npm run seed --prefix server",
+    "test": "npm test --prefix server",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "build:client": "npm run build --prefix client"
+  },
+  "keywords": [
+    "devhub",
+    "service-catalog",
+    "developer-portal",
+    "microservices",
+    "dependency-graph"
+  ],
+  "author": "Google DeepMind Advanced Agentic Coding",
+  "license": "MIT"
+}
